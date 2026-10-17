@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Tento text sme vložili na lokalo
+=======
+Subor zmeneny na github
+>>>>>>> 5c71430825ef18ab4b3c5d29fba5152b6ebf5228
