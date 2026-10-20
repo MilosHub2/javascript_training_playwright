@@ -1,0 +1,21 @@
+{
+  "name": "javascript_training_playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MilosHub2/javascript_training_playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/MilosHub2/javascript_training_playwright/issues"
+  },
+  "homepage": "https://github.com/MilosHub2/javascript_training_playwright#readme"
+}
